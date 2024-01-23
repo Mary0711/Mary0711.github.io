@@ -1,0 +1,34 @@
+.banner {
+  background-color: rgb(125, 203, 125);
+  padding: 0;
+  margin: 0;
+}
+
+.banner div {
+  text-align: right;
+  margin-right: 40px;
+}
+
+.services {
+  text-align: center;
+}
+
+.services img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.plans .carousel {
+  margin-bottom: 50px;
+}
+
+.plans .carousel img {
+  object-fit: cover;
+}
