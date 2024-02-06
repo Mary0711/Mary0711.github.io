@@ -33,6 +33,8 @@ h5 {
   align-items: center;
   margin-right: 40px;
   color: rgb(238, 238, 238);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .banner div h6 {
